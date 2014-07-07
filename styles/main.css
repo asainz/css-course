@@ -20,3 +20,9 @@
 .negro{
     background: black;
 }
+
+.borde-inferior{
+    padding-bottom: 10px;
+    background: purple;
+    float: left;
+}
